@@ -22,6 +22,16 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 * The two remaining objects, cable gland and dowel, are **rigid**.
 
 ## 2022
+* **Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors [Arxiv]**
+ paper:<https://arxiv.org/pdf/2202.11660.pdf>
+
+![image](https://user-images.githubusercontent.com/65257938/156167825-a338e8e2-5f44-46b7-8b72-6a1fbbbfe7b6.png)
+
+![image](https://user-images.githubusercontent.com/65257938/156167910-088c02ce-b6b0-42f3-af44-f3f7f1ddf913.png)
+
+![image](https://user-images.githubusercontent.com/65257938/156168048-d65a936f-2fe0-4c96-999a-45d829bd206f.png)
+
+
 * **The MVTec 3D-AD Dataset for Unsupervised 3D Anomaly Detection and Localization [VISAPP 2022]** ：
 
  paper:<https://arxiv.org/pdf/2112.09045.pdf>
