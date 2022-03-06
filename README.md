@@ -50,7 +50,8 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 
 
 ## Useful Links
-* https://paperswithcode.com/paper/the-mvtec-3d-ad-dataset-for-unsupervised-3d
+* [Paper with code]:(https://paperswithcode.com/paper/the-mvtec-3d-ad-dataset-for-unsupervised-3d)
+* [MVTec3D Dateset]:(https://www.mvtec.com/company/research/datasets/mvtec-3d-ad)
 
 
    
