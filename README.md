@@ -54,5 +54,10 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 * MVTec3D Dateset:<https://www.mvtec.com/company/research/datasets/mvtec-3d-ad>
 
 
+## Welcome to comments and discussions!!
+Xiaohao Xu: <xxh11102019@outlook.com>
+
+## License
+This project is released under the Mit license. See [LICENSE](LICENSE) for additional details.
    
 
