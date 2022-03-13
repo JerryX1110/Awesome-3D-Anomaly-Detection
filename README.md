@@ -22,6 +22,15 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 * The two remaining objects, cable gland and dowel, are **rigid**.
 
 ## 2022
+
+* **An Empirical Investigation of 3D Anomaly Detection and Segmentation [ArXiv]**
+* paper:<https://arxiv.org/pdf/2203.05550.pdf>
+
+![image](https://user-images.githubusercontent.com/65257938/158067120-eb584cc5-744d-4114-b6ac-121a260eeed1.png)
+![image](https://user-images.githubusercontent.com/65257938/158069660-8a4c6c22-54f7-455e-9078-1e96f4241ef3.png)
+
+
+
 * **Anomaly Detection in 3D Point Clouds using Deep Geometric Descriptors [Arxiv]**
  paper:<https://arxiv.org/pdf/2202.11660.pdf>
 
