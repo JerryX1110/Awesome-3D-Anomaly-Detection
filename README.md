@@ -22,6 +22,14 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 * The two remaining objects, cable gland and dowel, are **rigid**.
 
 ## 2022
+* **The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization [ACCV22]**
+* paper:https://arxiv.org/pdf/2210.04570.pdf
+![Screenshot 2022-10-12 132913](https://user-images.githubusercontent.com/65257938/195257853-14f0bbc7-e209-433e-8a24-be9499a51dda.png)
+![Screenshot 2022-10-12 132930](https://user-images.githubusercontent.com/65257938/195257858-49541dbb-f549-4e53-8b7f-a6a552db6846.png)
+![Screenshot 2022-10-12 132942](https://user-images.githubusercontent.com/65257938/195257867-b6e3e3c3-88c4-4e99-81b1-514047ea261b.png)
+
+
+
 
 * **An Empirical Investigation of 3D Anomaly Detection and Segmentation [ArXiv]**
 * paper:<https://arxiv.org/pdf/2203.05550.pdf>
