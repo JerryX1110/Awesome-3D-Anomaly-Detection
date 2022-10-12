@@ -69,7 +69,7 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 ## Useful Links
 * Paper with code:<https://paperswithcode.com/paper/the-mvtec-3d-ad-dataset-for-unsupervised-3d>
 * MVTec3D Dateset:<https://www.mvtec.com/company/research/datasets/mvtec-3d-ad>
-
+* Eyecandies Dataset:<https://eyecan-ai.github.io/eyecandies>
 
 ## Welcome to comments and discussions!!
 Xiaohao Xu: <xxh11102019@outlook.com>
