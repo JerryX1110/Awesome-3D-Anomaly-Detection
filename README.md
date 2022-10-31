@@ -22,6 +22,11 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 * The two remaining objects, cable gland and dowel, are **rigid**.
 
 ## 2022
+
+* **A Comprehensive Real-World Photometric Stereo Dataset for Unsupervised Anomaly Detection [IEEE ACCESS]**
+![image](https://user-images.githubusercontent.com/65257938/198924699-16b8c841-c7b4-4c9b-b2c6-e13c45503925.png)
+
+
 * **The Eyecandies Dataset for Unsupervised Multimodal Anomaly Detection and Localization [ACCV22]**
 * paper:https://arxiv.org/pdf/2210.04570.pdf
 ![Screenshot 2022-10-12 132913](https://user-images.githubusercontent.com/65257938/195257853-14f0bbc7-e209-433e-8a24-be9499a51dda.png)
