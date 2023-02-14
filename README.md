@@ -5,7 +5,6 @@
 
 
 ```diff
-- Still in progress...
 - welcome to add if any information misses. 😎
 ```
 ---
@@ -13,13 +12,20 @@
 Given a set of exclusively anomaly-free 3D scans of an object, the task is to detect and localize various types of anomalies
 
 ## Dataset Intro
-
 the first comprehensive dataset for unsupervised anomaly detection and localization in three-dimensional data. It consists of 4147 highresolution 3D point cloud scans from 10 real-world object categories. While the training and validation sets only contain anomaly-free data, the samples in the test set contain various types of anomalies. Precise ground truth annotations are provided for each anomaly.
 
 ## Dataset Description
 * Five of the object categories in our dataset exhibit **considerable natural variations from sample to sample**. These are bagel, carrot, cookie, peach, and potato.
 * Three more objects, foam, rope, and tire, have **a standardized appearance but can be easily deformed**. 
 * The two remaining objects, cable gland and dowel, are **rigid**.
+
+## 2023
+* **Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [IEEE Transactions on Industrial Informatics (TII) 2023]**
+* github code repo: https://github.com/caoyunkang/CDO
+* paper: https://ieeexplore.ieee.org/document/10034849
+![image](https://user-images.githubusercontent.com/65257938/218688615-dd822b3e-65f1-4190-839a-b6857e3cb0fa.png)
+![image](https://user-images.githubusercontent.com/65257938/218688646-b6c1690f-c49a-4a33-ace8-5a81f4279ccd.png)
+
 
 ## 2022
 
