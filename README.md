@@ -22,6 +22,7 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 ## 2023
 * **Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [IEEE Transactions on Industrial Informatics (TII) 2023]**
 * github code repo: https://github.com/caoyunkang/CDO
+* Arxiv: https://arxiv.org/abs/2302.08769
 * paper: https://ieeexplore.ieee.org/document/10034849
 ![image](https://user-images.githubusercontent.com/65257938/218688615-dd822b3e-65f1-4190-839a-b6857e3cb0fa.png)
 ![image](https://user-images.githubusercontent.com/65257938/218688646-b6c1690f-c49a-4a33-ace8-5a81f4279ccd.png)
