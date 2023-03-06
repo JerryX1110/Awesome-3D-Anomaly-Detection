@@ -29,6 +29,10 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 
 
 ## 2022
+* **Composite Layers for Deep Anomaly Detection on 3D Point Clouds [Arxiv22]**
+* https://arxiv.org/pdf/2209.11796.pdf
+![image](https://user-images.githubusercontent.com/65257938/223059259-efb91145-6b6b-4f63-9a3c-e3bfdd714a62.png)
+
 
 * **A Comprehensive Real-World Photometric Stereo Dataset for Unsupervised Anomaly Detection [IEEE ACCESS]**
 ![image](https://user-images.githubusercontent.com/65257938/198924699-16b8c841-c7b4-4c9b-b2c6-e13c45503925.png)
