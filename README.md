@@ -28,6 +28,13 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 ![image](https://user-images.githubusercontent.com/65257938/218688646-b6c1690f-c49a-4a33-ace8-5a81f4279ccd.png)
 
 
+
+* **Multimodal Industrial Anomaly Detection via Hybrid Fusion [ArXiv23]**
+* https://arxiv.org/pdf/2303.00601.pdf
+![image](https://user-images.githubusercontent.com/65257938/224504139-20204e88-df6c-4c2a-9d74-96bc6dcd8f6c.png)
+
+
+
 ## 2022
 * **Composite Layers for Deep Anomaly Detection on 3D Point Clouds [Arxiv22]**
 * https://arxiv.org/pdf/2209.11796.pdf
