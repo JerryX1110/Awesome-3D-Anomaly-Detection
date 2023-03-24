@@ -20,6 +20,12 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 * The two remaining objects, cable gland and dowel, are **rigid**.
 
 ## 2023
+* **Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection [ArXiV23]**
+* github repo: https://github.com/caoyunkang/CPMF
+* ArXiv: https://arxiv.org/ftp/arxiv/papers/2303/2303.13194.pdf
+![image](https://user-images.githubusercontent.com/65257938/227428654-5bd8c132-d95c-4c62-8a8f-c1d49ba8505c.png)
+
+
 * **Collaborative Discrepancy Optimization for Reliable Image Anomaly Localization [IEEE Transactions on Industrial Informatics (TII) 2023]**
 * github code repo: https://github.com/caoyunkang/CDO
 * Arxiv: https://arxiv.org/abs/2302.08769
@@ -29,7 +35,7 @@ the first comprehensive dataset for unsupervised anomaly detection and localizat
 
 
 
-* **Multimodal Industrial Anomaly Detection via Hybrid Fusion [ArXiv23]**
+* **Multimodal Industrial Anomaly Detection via Hybrid Fusion [ArXiV23]**
 * https://arxiv.org/pdf/2303.00601.pdf
 ![image](https://user-images.githubusercontent.com/65257938/224504139-20204e88-df6c-4c2a-9d74-96bc6dcd8f6c.png)
 
